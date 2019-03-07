@@ -1,1 +1,3 @@
 # deep-learning-jupyter-notebooks
+
+Please note: some of the data used in is the notebooks is appreviated MNIST data provided online by Lann LeCun (potentially et. el.). Please uses the data from their website in order to run the respective notebooks. Additionally, some data was internally generated with execel, and other data came from a generating file provide by Vanderbilt University staff that utilizes Scikit Learn code. I do not claim any rights on the data used to training the networks in these notebooks.
